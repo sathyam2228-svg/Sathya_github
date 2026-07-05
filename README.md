@@ -2,6 +2,9 @@
 
 A browser-based, constraint-aware timetable generator for schools and colleges. Add your teachers, classrooms, and sections, and Blackboard automatically builds a clash-free weekly schedule — no server, database, or installation required.
 
+**🔗 [Open the live app](https://sathyam2228-svg.github.io/smart-classroom-scheduler/)**
+*(Update this link to match your exact repo name once it's live under Settings → Pages.)*
+
 ---
 
 ## ✨ Features
